@@ -2,7 +2,6 @@
 <h3 align="center">A B.Tech Undergrad and a Full Stack Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorbhagat&label=Profile%20views&color=0e75b6&style=flat" alt="kishorbhagat" /> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kishorbhagat.kishorbhagat"></p>
-</br>
 
 - 🌱 I’m currently learning **Next.js**
 
