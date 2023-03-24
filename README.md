@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Kishor Bhagat</h1>
 <h3 align="center">A B.Tech Undergrad and a Full Stack Developer from India</h3>
 
